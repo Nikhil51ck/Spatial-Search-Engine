@@ -71,7 +71,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/Spatial-Search-Engine.git
+git clone https://github.com/Nikhil51ck/Spatial-Search-Engine.git
 cd Spatial-Search-Engine
 Compile the code:
 You can compile the main.cpp file directly using your C++ compiler.
